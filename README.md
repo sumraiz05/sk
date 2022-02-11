@@ -1,3 +1,3 @@
 # sk
-aslamu alikum
+hai
 suman
